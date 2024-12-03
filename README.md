@@ -34,10 +34,9 @@
 
 ## **Пример использования**
 
-1. **Входные данные**:
+1. **Входные данные** (в директории `docs`):
 
    - Файл `docs/a.txt` с содержимым:
-   
     ```
     Central component.
     
@@ -45,15 +44,13 @@
     ```
    
    - Файл `docs/b.txt` с содержимым:
-   
    ```
    The speed of finding an entry in a data structure, compared with how quickly it can be updated, is a crucial focus of computer science.
    ```
 
-2. **Запрос**: `Inverted index (DATA STRUCTURE).`
+1. **Запрос**: `Inverted index (DATA STRUCTURE).`
 
-3. **Результат** (список отсортированных по релевантности документов):
-
+2. **Результат** (список отсортированных по релевантности документов):
    ```
    [SearchResult(name='docs/a.txt', score=0.04505167867868493), SearchResult(name='docs/b.txt', score=0.0)]
    ```
