@@ -37,16 +37,16 @@
 1. **Входные данные** (в директории `docs`):
 
    - Файл `docs/a.txt` с содержимым:
-    ```
-    Central component.
-    
-    The inverted index data structure is a central component of a typical search engine indexing algorithm.
-    ```
+      ```
+      Central component.
+      
+      The inverted index data structure is a central component of a typical search engine indexing algorithm.
+      ```
    
    - Файл `docs/b.txt` с содержимым:
-   ```
-   The speed of finding an entry in a data structure, compared with how quickly it can be updated, is a crucial focus of computer science.
-   ```
+      ```
+      The speed of finding an entry in a data structure, compared with how quickly it can be updated, is a crucial focus of computer science.
+      ```
 
 1. **Запрос**: `Inverted index (DATA STRUCTURE).`
 
